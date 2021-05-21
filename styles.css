@@ -8,16 +8,37 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 20px;
-    border-color: rgb(141, 141, 141);
+    margin-top: 18px;
+    border-color: rgb(243, 243, 243);
+    border-radius: 50px 50px 50px 50px;
+    border-style: solid;
+    background-color: white;
+    outline: none;
     block-size: 50px 200px;
-    height: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    height: 20px;
     width: 500px;
-}
-.search-bar input {
-    height: 25px;
-    width: 500px;
+    font-size: 15px;
 }
 .search-bar:hover {
-    border-color: rgb(226, 226, 226);
+    border-color: rgb(199, 199, 199);
+}
+.radio {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    height: 30px;
+    width: 125px;
+    font-size: 12px;
+    background-color: rgb(245, 244, 244);
+    border-color: white;
+    border-style: solid;
+}
+.radio-buttons {
+    text-align: center;
+}
+.radio:hover {
+    border-color: rgb(206, 206, 206);
 }
