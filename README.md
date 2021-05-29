@@ -1,5 +1,5 @@
-Markup :  # Heading 1 #
-Markup : ## Google Homepage Clone - HTML/CSS ##
+# Heading 1 #
+## Google Homepage Clone - HTML/CSS ##
 
 First project is to build a clone of the google homepage using html and css.
 This is my first ever attempt at buildling a website. 
